@@ -1,6 +1,6 @@
 # Hi, I'm M. Lithish Adihtya! 👋
 
-🎓 B.E. Computer Science and Engineering (Cyber Security) Student at Saveetha Engineering College.
+🎓 B.E. Computer Science and Engineering (Cyber Security) Student
 
 💻 Interested in Cyber Security, Software Development, Robotics and Emerging Technologies.
 
@@ -52,7 +52,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/lithishisnow-crypto
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn: [www.linkedin.com/in/m-lithish-adithya-6a6bb1359]
 
 ---
 
